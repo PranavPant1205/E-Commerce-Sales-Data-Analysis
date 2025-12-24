@@ -29,9 +29,13 @@ These datasets are connected using Order ID to enable accurate analysis.
 🔧 Key Features & Learnings
 
 Built an interactive Power BI dashboard to track and analyze E-Commerce sales data
+
 Created data relationships and joins between multiple tables
+
 Used DAX calculations to compute total sales and profit
+
 Analyzed profit and loss by month, including negative profit periods
+
 Implemented filters and slicers for dynamic analysis
 
 Used various visualizations:
